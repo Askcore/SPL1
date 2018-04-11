@@ -9,7 +9,7 @@
 
 # Erledigt am 11.04.2018
 + Installation VM
-+Installation Cmder
++ Installation Cmder
 + Installation Firefox
 + Installation Python
 + Installation VSC
